@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_46cdfc03c2dadc19ec866e1cc28243f2c0d3c059.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/16.45.421.19/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe6430fcb0b63cdb623e2db3cbedae469543091d">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/pre-dexed/release/org.xwalk-xwalk_core_library-16.45.421.19_c6a046084155269753d488a41ccd843e792e0571.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_a041f2f8ff1493800bffcf8f765c2b6816fd397f.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_1389d800d09c3915006ee6ffe50877c16feb7d91.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_0229c1960a28f916e3fbecaef612abd170695e58.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/16.45.421.19/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe6430fcb0b63cdb623e2db3cbedae469543091d">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/pre-dexed/debug/org.xwalk-xwalk_core_library-16.45.421.19_096ec9e0450ffcfadc47b7180370f3db7a4777c8.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnline/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_2306f747d7a590636a6c68f7041035a8627f0fb5.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_659381cd28f7f0a029675a9600a654d640fc123b.jar" />
+    </item>
+    <item
+        jar="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Boss/AndroidStudioProjects/WordsOnlineAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_0f070d0646870e974cf975050661c1c3ac143c35.jar" />
+    </item>
+
+</items>
